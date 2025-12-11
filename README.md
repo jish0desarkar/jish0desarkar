@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Jishnu — Backend & Distributed Systems Engineer<br><br>I build scalable backend systems and the infrastructure they run on. I focus on clean architectures, reliable deployments, and distributed system patterns that actually hold up in production.<br><br>🚀 What I'm Building<br><br>Production-style microservices platform with multi-node deployments, replicas, load balancers, consistent hashing, leader election, and event-driven communication.<br>A real-world playground for distributed system concepts.<br><br>📚 Currently Learning<br><br>Advanced DSA • PostgreSQL internals • Kubernetes deeper concepts • Cloud architecture
+👋 Jishnu — Backend & Distributed Systems Engineer<br><br>I build scalable backend systems and the infrastructure they run on. I focus on clean architectures, reliable deployments, and distributed system patterns that actually hold up in production.<br><br> What I'm Building<br><br>Production-style microservices platform with multi-node deployments, replicas, load balancers, consistent hashing, leader election, and event-driven communication.<br>A real-world playground for distributed system concepts.<br><br> Currently Learning<br><br>Advanced DSA • PostgreSQL internals • Kubernetes deeper concepts • Cloud architecture
 
 
 ## 🌐 Socials:
